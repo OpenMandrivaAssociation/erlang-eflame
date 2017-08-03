@@ -6,7 +6,7 @@
 
 Name:		erlang-%{realname}
 Version:	0
-Release:	%mkrel 0.2.gita085181.1
+Release:	0.2.gita085181.1
 Summary:	Flame Graph profiler for Erlang
 Group:		Development/Erlang
 License:	MIT
